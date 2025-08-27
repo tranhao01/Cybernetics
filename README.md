@@ -7,4 +7,5 @@
 <img width="940" height="520" alt="image" src="https://github.com/user-attachments/assets/74dbf87e-07ab-475f-b83f-504301626719" />
 
 
+<img width="726" height="387" alt="Chi tiết Sóng Kondratieff thứ 6 (2020–2030) – Giai đoạn đi lên" src="https://github.com/user-attachments/assets/7c3e0753-91fb-48fc-9c08-293363d531e5" />
 
